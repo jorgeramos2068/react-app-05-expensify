@@ -1,3 +1,7 @@
+# React App - Expensify
+
+React application with a components and tests to create a list of elements with price.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
